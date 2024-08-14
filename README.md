@@ -1,4 +1,4 @@
-# LightGBM Multiclass Classifier in Scikit-Learn with Shapley Explanations
+# LightGBM Multiclass Classifier with Shapley Explanations
 ## Project Description
 This repository is a dockerized implementation of the re-usable multiclass classifier model. It is implemented in flexible way so that it can be used with any multiclass classification dataset with the use of CSV-formatted data, and a JSON-formatted data schema file. The main purpose of this repository is to provide a complete example of a machine learning model implementation that is ready for deployment.
 The following are the requirements for using your data with this model:
